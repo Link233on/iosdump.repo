@@ -35,6 +35,232 @@ Description: 修复Crane在iOS17不通知的bug。Repairs Crane PKDServer discov
 Author: 82flex
 Name: Crane PKDServer Fix
 
+Package: com.crctdd.cranedd
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0), com.opa334.crane
+Filename: ./debs/com.crctdd.cranedd_0.0.1_iphoneos-arm64.deb
+Size: 24740
+MD5sum: d89ba41994808e651f59d83a78dcb5f9
+SHA1: 56b45a2da32805a869de8cf3a7b71a8054bdd554
+SHA256: 7e1554a03090e012ebfad1eb64756267d9f61eb82b1811cd0cd903bc99787ee3
+Section: Tweaks
+Description: 下拉桌面图标弹出多开应用容器，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Crane Drop Down
+
+Package: com.crctdd.cranedd
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 112
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0), com.opa334.crane
+Filename: ./debs/com.crctdd.cranedd_0.0.1_iphoneos-arm64e.deb
+Size: 17570
+MD5sum: 1d778532a27627292e12c47967713f30
+SHA1: 15cb2b15636b8879bd355ed11ccd089b089ecb14
+SHA256: 30214bc08a60d25ca885d9076019b5602e3d99b7b5cea31fdd712a323f6b4258
+Section: Tweaks
+Description: 下拉桌面图标弹出多开应用容器，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Crane Drop Down
+
+Package: com.crctdd.deleterecords
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 108
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.deleterecords_0.0.1_iphoneos-arm64e.deb
+Size: 14840
+MD5sum: 47fab19c5680d0db261b84e32be8365b
+SHA1: c9c4b8a0b5d169ffc4f81dc7077dd9e3c8d88e5a
+SHA256: 2a4793ab2a9177c661444afe146f92f5316ff6ada9a3834e5fcdf321a07938fa
+Section: Tweaks
+Description: 长按桌面电话/信息图标可快速清除记录，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: 快速清除通话短信记录
+
+Package: com.crctdd.deleterecords
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.deleterecords_0.0.1_iphoneos-arm64.deb
+Size: 20790
+MD5sum: 9c1acdc269afc7ed8daaeb7fef5ddad9
+SHA1: 5249f86144ec5b987b8d863bf7c08476bd99dfb3
+SHA256: 134268e0884ec7e6480e8563907ac58c08cc37b36fa4e11db56279d2df0e0837
+Section: Tweaks
+Description: 长按桌面电话/信息图标可快速清除记录，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: 快速清除通话短信记录
+
+Package: com.crctdd.memtrim
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.memtrim_0.0.2_iphoneos-arm64.deb
+Size: 125198
+MD5sum: 37a2f6b78bad2d98266bd577b816aa97
+SHA1: 832c2a0d172b83fe1cc49b2bcfa25950d4080738
+SHA256: 24d6babe21eceacfffd06c4c26bb36e5f9077408f12b22cd8e53c5fd5baf1db5
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Name: MemTrim
+
+Package: com.crctdd.memtrim
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.memtrim_0.0.2_iphoneos-arm64e.deb
+Size: 71676
+MD5sum: 13868da5467edc7ebef48f4887a8f14b
+SHA1: c4051eeb9b5a21c1533871afb252185b66c806a6
+SHA256: 2bb22166f174bb72bae2d0487d6dffcb475fc3f847c43ae5961a9125478cfc97
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Name: MemTrim
+
+Package: com.crctdd.mobileslideshowhook
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.mobileslideshowhook_0.0.5_iphoneos-arm64.deb
+Size: 31942
+MD5sum: a4a2d353e1cd54c54f184791ee41010b
+SHA1: 10232b15eb7eb151db4edc00e68b21824f123e39
+SHA256: 667d5cbd95e85af20b743c3ef9d14f0d2db42f1b79734e9ce518d9cd76a16436
+Section: Tweaks
+Description: 系统相册增加视频进度条 (支持iOS 15-17)
+Author: crctdd
+Name: 系统相册视频进度条
+
+Package: com.crctdd.mobileslideshowhook
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.mobileslideshowhook_0.0.5_iphoneos-arm64e.deb
+Size: 31938
+MD5sum: 0f73596973877a7305956c4fe83059e5
+SHA1: 67f442d19169e16222d52316f092ca088e4a7a37
+SHA256: 65d7edf17f07184e69dfb91e79fa14ec82afcbb4019955b319afd22ea4be9732
+Section: Tweaks
+Description: 系统相册增加视频进度条 (支持iOS 15-17)
+Author: crctdd
+Name: 系统相册视频进度条
+
+Package: com.crctdd.shorbar
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.shorbar_1.0.0_iphoneos-arm64e.deb
+Size: 60046
+MD5sum: 367482414172b3319da2dd4fac10ea97
+SHA1: de8812ddcb958c790e53458edc8531bfa6336ddb
+SHA256: 082ab776f55c41cd319c4d1b51f50bdf1ab94b55b6c820b9786773c14da03192
+Section: Tweaks
+Description: 让小白条缩短的轻量插件 (支持iOS 15-17)
+Author: crctdd
+Name: ShortBar
+
+Package: com.crctdd.shorbar
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.shorbar_1.0.0_iphoneos-arm64.deb
+Size: 59996
+MD5sum: d669c22f3e66188a05fe8a8ac138f97c
+SHA1: 28538c944d95f0c2c4d1fd583ed6b7cd72a544ab
+SHA256: 4584aca0f449a05763c8d06298c639d27950b27df24ff70f3b1133a639ec5bcf
+Section: Tweaks
+Description: 让小白条缩短的轻量插件 (支持iOS 15-17)
+Author: crctdd
+Name: ShortBar
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.8
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 948
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.3.8_iphoneos-arm64e.deb
+Size: 158064
+MD5sum: d606ce58e2f46236f6c65fb89ba6ff2d
+SHA1: 969435006553cbe67728a10fdb23111e0f17817d
+SHA256: 0f0499b0fa7e5f2caf0c31b17857225f792af17f5fbcd7f044a22f1c755e6f8f
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.8
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1924
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.3.8_iphoneos-arm64.deb
+Size: 232912
+MD5sum: aec7c190633622690f9a207acdd3e323
+SHA1: a2cb7bbf6ba1ebb6eb52dc085b7037f9241407fc
+SHA256: 37c0f6f28162c3e5e85b9bae7b2cf13036fff21d36722cebebc1f070cfce0680
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.taplink
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 960
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.taplink_0.0.6_iphoneos-arm64.deb
+Size: 146346
+MD5sum: ac1ec08692400ff5624bb9e0ca013d4b
+SHA1: ce608c7d6fe6624ec820e0bd5815da2fdaec796f
+SHA256: 4795fc1eaa6fa1c4e68a41ecca09afd8382d35ced43d22f408d3245279be4d4f
+Section: Tweaks
+Description: 通过悬浮触发点，将点击映射到指定位置，内置多种触发结果。(支持iOS 15-17)
+Author: crctdd
+Name: TapLink
+
+Package: com.crctdd.taplink
+Version: 0.0.6
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 960
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.crctdd.taplink_0.0.6_iphoneos-arm64e.deb
+Size: 146612
+MD5sum: aca5927aec1ccd01de3e3814875dfa25
+SHA1: 65585ee8c4477bc8d48a3503ec5a80d11b9e8118
+SHA256: 38687107acb939e1f5b4e56143aef1290a586b8174385d74601d9b5abfcfe8f0
+Section: Tweaks
+Description: 通过悬浮触发点，将点击映射到指定位置，内置多种触发结果。(支持iOS 15-17)
+Author: crctdd
+Name: TapLink
+
 Package: com.iosdump.airdrop
 Version: 0.0.1
 Architecture: iphoneos-arm64e
